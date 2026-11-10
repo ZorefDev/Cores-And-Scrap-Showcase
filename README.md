@@ -48,4 +48,4 @@ As the solo developer, I worked on:
 
 ---
 
-**Developed independently by Zoref.**
+
