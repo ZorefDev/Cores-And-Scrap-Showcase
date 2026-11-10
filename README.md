@@ -1,5 +1,4 @@
 # Cores-And-Scrap-Showcase
-# Cores & Scrap Roguelite
 
 **An independently developed isometric industrial vehicle roguelite.**
 
