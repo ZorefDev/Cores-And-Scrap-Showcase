@@ -39,14 +39,12 @@ As the solo developer, I worked on:
 - Level design and implementation.
 - UI and game progression.
 
-## Screenshots
-
-*Gameplay screenshots coming soon.*
 
 ## Links
 
 - **Developer Portfolio:** https://zorefdev.github.io
 - **GitHub Profile:** https://github.com/zorefdev
+- https://01-theory.itch.io/cores-scrap-roguelite
 
 ---
 
